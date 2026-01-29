@@ -5,7 +5,7 @@ Ce projet implémente un réseau de neurones pour l'upscaling audio ambisonique 
 ## Jeu de Données
 
 Le modèle est entraîné en utilisant le jeu de données suivant disponible sur Hugging Face :
-[jack635/ambisonic-dataset](https://huggingface.co/datasets/jack635/ambisonic-dataset)
+[jack635/ambisonic-dataset](https://huggingface.co/datasets/jack635/ambisonic-dataset-final)
 
 ## Structure du Projet
 
